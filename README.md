@@ -1,2 +1,2 @@
-# mod-le
+# mode
 créateur de la mode
